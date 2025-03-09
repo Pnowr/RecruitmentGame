@@ -1,7 +1,5 @@
 # Discord ゲーム募集ボット
 
-日本のDiscordサーバー向けの多機能ゲーム募集管理ボットです。このボットを使用すると、ユーザーは募集投稿を作成し、セッションに参加し、自動通知機能付きで参加者を管理することができます。
-
 <p align="center">
     <a href="https://x.com/intent/follow?screen_name=nau_neko" target="_blank">
         <img src="https://img.shields.io/twitter/follow/nau_neko?logo=X&color=%20%23f5f5f5" alt="follow on X(Twitter)">
@@ -9,6 +7,10 @@
     <a href="https://www.twitch.tv/nau_neko">
        <img alt="Twitch Status" src="https://img.shields.io/twitch/status/nau_neko">
 </p>
+
+日本のDiscordサーバー向けの多機能ゲーム募集管理ボットです。このボットを使用すると、ユーザーは募集投稿を作成し、セッションに参加し、自動通知機能付きで参加者を管理することができます。
+
+
 
 ## 機能
 
