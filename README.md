@@ -1,5 +1,7 @@
 # Discord ゲーム募集ボット
-
+<p align="center">
+  <img src="1e386160923f3f11377f11688d93141e.png" alt="画像の説明" width="200" />
+</p>
 <p align="center">
     <a href="https://x.com/intent/follow?screen_name=nau_neko" target="_blank">
         <img src="https://img.shields.io/twitter/follow/nau_neko?logo=X&color=%20%23f5f5f5" alt="follow on X(Twitter)">
